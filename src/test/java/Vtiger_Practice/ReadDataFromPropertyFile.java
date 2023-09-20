@@ -25,6 +25,8 @@ public class ReadDataFromPropertyFile {
 		String Browser = p.getProperty("browser");
 		System.out.println(Browser);
 		
+		System.out.println("Hi");
+		
 
 	}
 

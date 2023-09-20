@@ -73,7 +73,7 @@
  </dependencies>
  <profiles>
 	 <profile>
-		 <id> Smoke</id>
+		 <id>Smoke</id>
 		  <build>
  <plugins>
   
